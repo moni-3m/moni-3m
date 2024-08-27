@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, my name is Moni 🌱
+🐎
 
++ 🎓 I am a master student at Clark University, here is my [linkedin] profile :) (www.linkedin.com/in/monica-munoz-miranda-a05869299)
++ 💻 My research interests include Geographic Information Science (GIS) and environmental conservation.
 <!--
 **moni-3m/moni-3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
