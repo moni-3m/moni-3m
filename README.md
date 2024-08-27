@@ -1,7 +1,8 @@
-## Hi there, my name is Moni 🌱
-🐎
+## Hi there, my name is Moni 🌱🐎
+[![LinkedIn Badge](https://img.shields.io/badge/my-linkedin-green)](https://www.linkedin.com/in/monica-munoz-miranda-a05869299/)
+[![LinkedIn Badge](https://img.shields.io/github/repo-size/moni-3m/moni-3m)
 
-+ 🎓 I am a master student at Clark University, here is my [linkedin](www.linkedin.com/in/monica-munoz-miranda-a05869299) profile :)
++ 🎓 I am a GIS masters student at [Clark University](https://www.clarku.edu/)
 + 💻 My research interests include Geographic Information Science (GIS) and environmental conservation.
 <!--
 **moni-3m/moni-3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
