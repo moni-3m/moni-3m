@@ -9,7 +9,7 @@
 ![My Skills](https://skillicons.dev/icons?i=py,html)
 
 ## Get in touch
-### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
+### **I'm always happpy to meet new people, start new projects and open to any opportunity, feel free to reach me out via:<br />**
 - Email: [mmuozmiranda@clarku.edu](mailto:mmuozmiranda@clarku.edu)<br />
 - Linkedin: [in/moni3m](www.linkedin.com/in/monica-munoz-miranda-a05869299)<br />
 
